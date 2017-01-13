@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\bbuton_info_rounded.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\bbuton_info_rounded.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bottom_custom_dialog.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\bg_bottom_custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\bbuton_danger_rounded.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\bbuton_danger_rounded.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_title_custom_dialog.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\bg_title_custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\background_login_button_bg.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\background_login_button_bg.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_middle_custom_dialog.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\bg_middle_custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg2.xml",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable\\button_bg2.xml"
+    }
+]

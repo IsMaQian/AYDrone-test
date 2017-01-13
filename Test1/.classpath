@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="F:/Android地面站/AMap_Android_SDK_All/AMap_Android_SDK_All/AMap_Android_Doc&amp;Demo/eclipse/AMap_Android_API_2DMap_Demo_V3.3.3_20160726/libs/AMap_3DMap_V3.3.3_20160725.jar"/>
+	<classpathentry kind="lib" path="F:/Android地面站/AMap_Android_SDK_All/AMap_Android_SDK_All/AMap_Android_Doc&amp;Demo/eclipse/AMap_Android_API_2DMap_Demo_V3.3.3_20160726/libs/AMap_Location_V2.4.1_20160414.jar"/>
+	<classpathentry kind="lib" path="F:/Android地面站/AMap_Android_SDK_All/AMap_Android_SDK_All/AMap_Android_Doc&amp;Demo/eclipse/AMap_Android_API_2DMap_Demo_V3.3.3_20160726/libs/AMap_Search_V3.2.1_20160308.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

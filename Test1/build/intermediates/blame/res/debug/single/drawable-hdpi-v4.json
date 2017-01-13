@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wing.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\wing.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\ic_expand.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\downarrow.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\downarrow.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\position.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\position.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down1.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\down1.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\androidstudioworkerplace\\Try\\Test1\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rightarrow.png",
+        "source": "F:\\androidstudioworkerplace\\Try\\Test1\\res\\drawable-hdpi\\rightarrow.png"
+    }
+]
