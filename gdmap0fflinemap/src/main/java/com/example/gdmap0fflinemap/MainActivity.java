@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private class OfflineDownload implements View.OnClickListener {
         @Override
         public void onClick(View v) {
-            Intent intent = new Intent(MainActivity.this, com.example.gdmap0fflinemap.offlineMap.offlineMap_activity.class);
+            Intent intent = new Intent(MainActivity.this, com.example.gdmap0fflinemap.offlineMap.OfflineMapActivity.class);
             startActivity(intent);
         }
     }
