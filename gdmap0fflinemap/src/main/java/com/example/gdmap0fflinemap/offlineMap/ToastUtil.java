@@ -5,11 +5,12 @@ package com.example.gdmap0fflinemap.offlineMap;
  */
 
 import android.content.Context;
-import android.graphics.Color;
 import android.os.Handler;
 import android.view.Gravity;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.gdmap0fflinemap.R;
 
 /**
  *
@@ -31,7 +32,7 @@ public class ToastUtil {
     public static void showShortToast(Context context, String message) {
         TextView text = new TextView(context);// 显示的提示文字
         text.setText(message);
-        text.setBackgroundColor(Color.BLACK);
+        text.setBackgroundColor(context.getResources().getColor(R.color.transparent));
         text.setPadding(10, 10, 10, 10);
 
         if (mToast != null) {//
